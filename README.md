@@ -1,3 +1,2 @@
-# lco-graphql
-A standard babel setup
-Starter project setup for upcoming crash courses
+# GRAPH QL 
+This is the code during the introductory course for the GraphQL
